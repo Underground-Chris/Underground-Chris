@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Underground-Chris (Chris Mennens)
-- 👀 I’m interested in  HTML / CSS Javascript / jQuery
+- 👀 I’m interested in  HTML / CSS / Javascript / jQuery / Technical Support / Customer services
 - 🌱 I’m currently reworking portfolio pieces and sharpening my skillsets
 - 💞️ I’m searching for new opportunities.
 - 📫 How to reach me ... https://www.linkedin.com/in/chris-mennens/
